@@ -1,0 +1,8 @@
+#wrapper, .resultParas, form{
+    text-align: center;
+    
+}
+
+#guessfield {
+    height: 30px;
+}
